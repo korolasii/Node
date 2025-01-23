@@ -1,0 +1,6 @@
+[34m[2025-01-23T19:35:24.168Z], INFO: Info message[39m 
+[33m[2025-01-23T19:35:24.168Z], WARNING: Warning message[39m 
+[31m[2025-01-23T19:35:24.168Z], ERROR: Error: Something went wrong[39m
+[31mStack: Error: Something went wrong[39m
+[31m    at file:///E:/Timofei/Node/lesson_2/index.js:7:14[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:194:25)[39m 
