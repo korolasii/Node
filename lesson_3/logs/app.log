@@ -1,0 +1,26 @@
+[34m[2025-01-23T19:35:24.168Z], INFO: Info message[39m 
+[33m[2025-01-23T19:35:24.168Z], WARNING: Warning message[39m 
+[31m[2025-01-23T19:35:24.168Z], ERROR: Error: Something went wrong[39m
+[31mStack: Error: Something went wrong[39m
+[31m    at file:///E:/Timofei/Node/lesson_2/index.js:7:14[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:194:25)[39m 
+[34m[2025-01-27T20:40:45.588Z], INFO: message[39m 
+[34m[2025-01-27T20:40:45.590Z], INFO: message after 10 second[39m 
+[34m[2025-01-27T20:41:36.754Z], INFO: message[39m 
+[34m[2025-01-27T20:41:36.755Z], INFO: message after 10 second[39m 
+[34m[2025-01-27T20:41:50.694Z], INFO: message[39m 
+[34m[2025-01-27T20:41:56.675Z], INFO: message[39m 
+[34m[2025-01-27T20:41:57.135Z], INFO: message[39m 
+[34m[2025-01-27T20:42:34.751Z], INFO: message[39m 
+[34m[2025-01-27T20:42:50.142Z], INFO: message[39m 
+[34m[2025-01-27T20:42:50.144Z], INFO: message after 10 second[39m 
+[34m[2025-01-27T20:42:50.313Z], INFO: message[39m 
+[34m[2025-01-27T20:42:50.315Z], INFO: message after 10 second[39m 
+[34m[2025-01-27T20:42:55.764Z], INFO: message[39m 
+[34m[2025-01-27T20:42:55.766Z], INFO: message after 10 second[39m 
+[34m[2025-01-27T20:45:03.854Z], INFO: message[39m 
+[34m[2025-01-27T20:45:04.040Z], INFO: message[39m 
+[34m[2025-01-27T20:45:14.043Z], INFO: message after 10 seconds[39m 
+[34m[2025-01-27T20:45:19.264Z], INFO: message[39m 
+[34m[2025-01-27T20:45:21.313Z], INFO: message[39m 
+[34m[2025-01-27T20:45:26.457Z], INFO: message[39m 
